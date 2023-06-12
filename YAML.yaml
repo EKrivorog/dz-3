@@ -1,16 +1,17 @@
+---
 name: Evgeniy Krivorog
 age: 31
 studentID: "7777777"
 isStudent: false
-University: "Cherkasy State Technological University"
+University: herkasy State Technological University
 contact:
-  "email": evgeniy.krivorog@gmail.com,
-    "phone": "0730908991"
+  email: evgeniy.krivorog@gmail.com
+  phone: "0730908991"
 courses:
   - Java AQA
   - English
 address:
-  street: "Komarova street"
+  street: Komarova street
   city: Cherkassy
   state: Che
   country: Ukraine

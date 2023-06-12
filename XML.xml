@@ -1,24 +1,27 @@
-name: Evgeniy Krivorog
-age: 31
-studentID: "7777777"
-isStudent: false
-University: "Cherkasy State Technological University"
-contact:
-  "email": evgeniy.krivorog@gmail.com
-    "phone": "0730908991"
-courses:
-  - Java AQA
-  - English
-address:
-  street: "Komarova street"
-  city: Cherkassy
-  state: Che
-  country: Ukraine
-skills:
-  programming:
-    - Java
-    - Docker
-    - git
-  languages:
-    - English
-    - Ukraine
+ <student>
+  <name>Evgeniy Krivorog</name>
+  <age>31</age>
+  <address>
+    <street>Komarova street</street>
+    <city>Cherkassy</city>
+</address>
+  <contact>
+    <email>evgeniy.krivorog@gmail.com</email>
+    <phone>0730908991</phone>
+  </contact>
+  <skills>
+    <subject>
+      <name>Ukraine</name>
+      <grade>A</grade>
+    </subject>
+    <subject>
+      <name>English</name>
+      <grade>B</grade>
+    </subject>
+  </grades>
+  <isStudent>false</isStudent>
+  <languages>
+    <language>English</language>
+    <language>Ukraine</language>
+  </languages>
+</student>

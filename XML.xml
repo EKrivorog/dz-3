@@ -1,10 +1,10 @@
- <student>
+<student>
   <name>Evgeniy Krivorog</name>
   <age>31</age>
   <address>
     <street>Komarova street</street>
     <city>Cherkassy</city>
-</address>
+  </address>
   <contact>
     <email>evgeniy.krivorog@gmail.com</email>
     <phone>0730908991</phone>
@@ -18,10 +18,10 @@
       <name>English</name>
       <grade>B</grade>
     </subject>
-  </grades>
+  </skills>
   <isStudent>false</isStudent>
   <languages>
     <language>English</language>
-    <language>Ukraine</language>
+    <language>Ukrainian</language>
   </languages>
 </student>
